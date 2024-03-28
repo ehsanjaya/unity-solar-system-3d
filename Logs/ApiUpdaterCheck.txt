@@ -1,0 +1,60 @@
+[api-updater (non-obsolete-error-filter)] 6/17/2023 7:40:33 AM : Starting C:/Users/ehsan/Documents/unity/game shooter 3d/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1178.0468ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 201ms
+candidates check time : 26ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/19/2023 5:53:28 PM : Starting C:/Users/ehsan/Documents/unity/game shooter 3d/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1263.6545ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 322ms
+candidates check time : 23ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/21/2023 1:49:41 PM : Starting C:/Users/ehsan/Documents/unity/game shooter 3d/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1605.1573ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 409ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/22/2023 4:25:10 PM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1127.2986ms
+moved types parse time: 58ms
+candidates parse time : 2ms
+C# parse time         : 334ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/24/2023 6:11:51 AM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1073.9674ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 263ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6/28/2023 9:14:35 AM : Starting C:/Users/ehsan/Documents/unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2032.6697ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 405ms
+candidates check time : 54ms
+console write time    : 1ms
+
